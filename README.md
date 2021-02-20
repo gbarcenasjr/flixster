@@ -3,7 +3,7 @@
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
-## Flix Part 1
+## Flix
 
 ### User Stories
 
@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/RwHwesbQob.gif" width=250><br>
+<img src="http://g.recordit.co/dlMAOfIKOn.gif" width=250><br>
 
 ### Notes
 There was some initial issue with the "pod install" feature, due to using an M1 BigSur Macbook. Luckily, Angela Dimon, a CodePath TA, was able to help me with this issue and pointed me to an article that solved the problem. Link: https://armen-mkrtchian.medium.com/run-cocoapods-on-apple-silicon-and-macos-big-sur-developer-transition-kit-b62acffc1387
