@@ -1,9 +1,6 @@
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
 ---
 
 ## Flix Part 1
@@ -13,7 +10,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
@@ -21,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/KY6CzlqekZ.gif" width=250><br>
+<img src="http://g.recordit.co/RwHwesbQob.gif" width=250><br>
 
 ### Notes
-I was unable to install AlamofireImage pod to my project. I belive the issue has to do with my computer having the BigSur OS (M1 Mac / 11.2.1) I installed the Command Line Terminal Tools fromt the Apple Developer page and it seemed to be installed. 
+There was some initial issue with the "pod install" feature, due to using an M1 BigSur Macbook. Luckily, Angela Dimon, a CodePath TA, was able to help me with this issue and pointed me to an article that solved the problem. Link: https://armen-mkrtchian.medium.com/run-cocoapods-on-apple-silicon-and-macos-big-sur-developer-transition-kit-b62acffc1387
