@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/f7X6efi21w.gif" width=250><br>
+<img src="http://g.recordit.co/BROnfoKufu.gif" width=250><br>
 
 ### Notes
 When I was setting up the collection view, I didn't modify the estimate size of my collection view! I went around in the code and the main.storyboard only to find the solution in the Assigment 2 instructions. However, because of this, I was able to write a missing identifier.
